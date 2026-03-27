@@ -10,9 +10,7 @@
   </p>
 
   <p align="center">
-    🎓 <b>Director @ The Intelliverse | BS in Data Science & AI @ IIT Guwahati</b><br>
-    🤖 <b>Passionate about LLMs, Generative AI & Automation</b><br>
-    📍 <b>Gandhinagar, Gujarat, India</b>
+    🎓 <b>Director @ The Intelliverse | BS in Data Science & AI @ IIT Guwahati | B.Tech in CSE @ Karnavati University</b>
   </p>
 </div>
 
@@ -21,8 +19,6 @@
 ## 🚀 About Me
 
 - 🔭 Founder & Director at **The Intelliverse**
-- 🎓 BS in Data Science & AI @ **IIT Guwahati** | B.Tech in CSE @ **Karnavati University**
-- 🧠 **Domain Expert:** LLMs, GenAI, Automation, and Product Engineering
 - ⚡ **Vibe Coder** — I build things fast, creatively and intuitively
 - 🔄 Building **automation workflows** using **n8n & Antigravity**
 - 💡 Interested in making **AI-powered automated systems**
