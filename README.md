@@ -86,17 +86,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JalAnghan&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Time" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JalAnghan/JalAnghan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JalAnghan/JalAnghan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JalAnghan/JalAnghan/output/github-snake.svg" />
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalanghan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalanghan1773@gmail.com)
