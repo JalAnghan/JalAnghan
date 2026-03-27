@@ -20,11 +20,13 @@
 
 ## 🚀 About Me
 
+- 🔭 Founder & Director at **The Intelliverse**
+- 🎓 BS in Data Science & AI @ **IIT Guwahati** | B.Tech in CSE @ **Karnavati University**
+- 🧠 **Domain Expert:** LLMs, GenAI, Automation, and Product Engineering
 - ⚡ **Vibe Coder** — I build things fast, creatively and intuitively
 - 🔄 Building **automation workflows** using **n8n & Antigravity**
 - 💡 Interested in making **AI-powered automated systems**
-- 🎓 B.Tech in CSE @ **Karnavati University**
-- 🧠 **Domain Expert:** LLMs, GenAI, and Product Engineering
+- ⚡ **Core Areas:** AI Applications, SaaS Development, Automation Workflows, Developer Tools
 - 🎯 Constantly building and exploring the limits of Generative AI. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,6 +60,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🤖 AI Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
