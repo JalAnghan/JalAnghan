@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/hand-wave.gif" width="30">
-  <h1>Hey there! I'm Jal Anghan</h1>
+  <h1>Hey there! I'm Jal Anghan 👋</h1>
   <h3><font color="#5da5da">Product Engineer, Automation & Workflow Builder</font></h3>
 
   <p align="center">
