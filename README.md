@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🔭 Founder & Director at **The Intelliverse**
-- ⚡ **Vibe Coder** — I build things fast, creatively and intuitively
+- ⚡ **Vibe Coder** - I build things fast, creatively and intuitively
 - 🔄 Building **automation workflows** using **n8n & Antigravity**
 - 💡 Interested in making **AI-powered automated systems**
 - ⚡ **Core Areas:** AI Applications, SaaS Development, Automation Workflows, Developer Tools
